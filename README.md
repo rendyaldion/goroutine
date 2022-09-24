@@ -1,6 +1,6 @@
 # Goroutine practice
 
-Learning about gorouting, channel and sync.WaitGroup
+Learning about goroutine, channel and sync.WaitGroup
 
 ## Usage
 ```bash
